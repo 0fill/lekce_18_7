@@ -3,7 +3,6 @@ from controllers import *
 from views import *
 
 
-
 def run():
     nums = Numberslist()
     while True:
@@ -22,17 +21,18 @@ def run():
             print_min(min_nums)
 
         elif user_input == '4':
-            save_list_to_json(nums)
+            save_list_to_pickle(nums)
 
         elif user_input == '5':
-            save_max_json(nums)
+            save_max_pickle(nums)
 
         elif user_input == '6':
-            save_min_json(nums)
+            save_min_pickle(nums)
 
         elif user_input == '0':
             exit_prg()
             break
 
+open("main555.txt", "w")
 
-run()
+#run()
