@@ -1,7 +1,6 @@
-from models import Numberslist
 from controllers import *
 from views import *
-import os
+
 
 def run():
     nums = Numberslist()

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="its working">
+    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="Merge pull request #1 from 0fill/development&#10;&#10;Development">
+      <change afterPath="$PROJECT_DIR$/creational/builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mvc-app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,7 +55,7 @@
     "Python.main.executor": "Run",
     "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "development",
+    "git-widget-placeholder": "behaviorals-patterns",
     "last_opened_file_path": "C:/Users/uzivatel/Documents/GitHub/lekce_18_7/soft_eng",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -109,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721319220231</updated>
       <workItem from="1721319221629" duration="216000" />
-      <workItem from="1721319441103" duration="6723000" />
+      <workItem from="1721319441103" duration="10343000" />
     </task>
     <task id="LOCAL-00001" summary="get ready">
       <option name="closed" value="true" />
@@ -159,7 +167,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721325659120</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="its working">
+      <option name="closed" value="true" />
+      <created>1721326359211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721326359211</updated>
+    </task>
+    <task id="LOCAL-00008" summary="its working">
+      <option name="closed" value="true" />
+      <created>1721326369991</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721326369991</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge pull request #1 from 0fill/development&#10;&#10;Development">
+      <option name="closed" value="true" />
+      <created>1721326516420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721326516420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +203,8 @@
     <MESSAGE value="wtf" />
     <MESSAGE value="idk" />
     <MESSAGE value="its working" />
-    <option name="LAST_COMMIT_MESSAGE" value="its working" />
+    <MESSAGE value="Merge pull request #1 from 0fill/development&#10;&#10;Development" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #1 from 0fill/development&#10;&#10;Development" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/soft_eng$main.coverage" NAME="main Coverage Results" MODIFIED="1721325141356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
