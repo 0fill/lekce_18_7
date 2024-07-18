@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="get ready">
+      <change beforePath="$PROJECT_DIR$/mvc-app/controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/controllers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc-app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc-app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "development",
     "last_opened_file_path": "C:/Users/uzivatel/Documents/GitHub/lekce_18_7/soft_eng",
@@ -54,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uzivatel\Documents\GitHub\lekce_18_7\soft_eng\mvc-app" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="soft_eng" />
@@ -69,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\uzivatel\Documents\GitHub\lekce_18_7\soft_eng\mvc-app\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,14 +111,28 @@
       <option name="presentableId" value="Default" />
       <updated>1721319220231</updated>
       <workItem from="1721319221629" duration="216000" />
-      <workItem from="1721319441103" duration="509000" />
+      <workItem from="1721319441103" duration="1474000" />
     </task>
+    <task id="LOCAL-00001" summary="get ready">
+      <option name="closed" value="true" />
+      <created>1721320037465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721320037465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="get ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="get ready" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/soft_eng$main.coverage" NAME="main Coverage Results" MODIFIED="1721319584743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/soft_eng$views.coverage" NAME="views Coverage Results" MODIFIED="1721320219405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mvc-app" />
   </component>
 </project>
