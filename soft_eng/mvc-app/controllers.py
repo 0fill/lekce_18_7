@@ -21,8 +21,8 @@ def save_list_to_pickle(nums: Numberslist):
     pickle.dump(nums, f)
     f.close()
 def save_max_pickle(nums: Numberslist):
-    f = open("numbers_max.txt","w")
-    f.write(str(find_max(nums)))
+    f = open("numbers_max.pkl","wb")
+    pickle.dump((find_max(nums)),f)
     f.close()
 def save_min_pickle(nums: Numberslist):
     f = open("numbers_min.pkl","wb")
