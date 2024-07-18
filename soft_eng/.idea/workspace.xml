@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="idk">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc-app/controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/controllers.py" afterDir="false" />
+    <list default="true" id="b69f4837-7fe4-456e-9ee2-863eca703a25" name="Changes" comment="its working">
       <change beforePath="$PROJECT_DIR$/mvc-app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721319220231</updated>
       <workItem from="1721319221629" duration="216000" />
-      <workItem from="1721319441103" duration="6123000" />
+      <workItem from="1721319441103" duration="6723000" />
     </task>
     <task id="LOCAL-00001" summary="get ready">
       <option name="closed" value="true" />
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721324657088</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="its working">
+      <option name="closed" value="true" />
+      <created>1721325659120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721325659120</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +170,8 @@
     <MESSAGE value="in progres" />
     <MESSAGE value="wtf" />
     <MESSAGE value="idk" />
-    <option name="LAST_COMMIT_MESSAGE" value="idk" />
+    <MESSAGE value="its working" />
+    <option name="LAST_COMMIT_MESSAGE" value="its working" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/soft_eng$main.coverage" NAME="main Coverage Results" MODIFIED="1721325141356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
