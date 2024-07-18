@@ -6,6 +6,9 @@ def print_main_menu():
     [1] - zadat cisla
     [2] - ukaz max
     [3] - ukaz minium
+    [4] - ulozit do list do souboru
+    [5] - ulozit max do souboru
+    [6] - ulozit min do souboru
     [0] - konec""")
 
 def user_choice_input():

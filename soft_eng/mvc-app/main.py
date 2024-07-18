@@ -21,6 +21,15 @@ def run():
             min_nums = find_min(nums)
             print_min(min_nums)
 
+        elif user_input == '4':
+            save_list_to_json(nums)
+
+        elif user_input == '5':
+            save_max_json(nums)
+
+        elif user_input == '6':
+            save_min_json(nums)
+
         elif user_input == '0':
             exit_prg()
             break
