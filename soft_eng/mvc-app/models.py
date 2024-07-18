@@ -1,7 +1,7 @@
 
 
 class Numberslist:
-    def __init__(self, nums):
+    def __init__(self, nums=[]):
         self.nums = nums
 
 

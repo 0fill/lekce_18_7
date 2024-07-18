@@ -8,6 +8,9 @@ def print_main_menu():
     [3] - ukaz minium
     [0] - konec""")
 
+def user_choice_input():
+    return input("give me your choice: ")
+
 def nums_input():
     num = input("zadej cislo: ")
     return num
